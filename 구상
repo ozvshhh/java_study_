@@ -1,0 +1,12 @@
+Unit, Dice, Player 의 관계:
+
+Dice 의 역할
+주사위 생성
+주사위 변경
+주사위 굴리기
+주사위 계산하기
+
+Unit 의 역할
+type = "player" or "enemy"
+hp = hp_args;
+dmg = dice에게서 받을 것
