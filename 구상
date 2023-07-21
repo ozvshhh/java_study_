@@ -10,3 +10,5 @@ Unit 의 역할
 type = "player" or "enemy"
 hp = hp_args;
 dmg = dice에게서 받을 것
+
+git test
